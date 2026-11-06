@@ -23,9 +23,9 @@ Source check: 2026-11-06. Pricing can change; see the cited official pages. Unkn
 
 ### Make AI Rap Videos
 
-Four fixed scene/style pairs, no custom lyrics or song uploads. Four fixed scene/style pairs, no custom lyrics or song uploads. In four development API samples, Pet, Solo and Original passed technical/audio/lyric checks; Duo returned below the required resolution and would be rejected. Duo needs correction and retesting. Historical five-second demos are not current previews; human listening, lip-sync and production checkout-to-download validation remain incomplete.
+Four fixed scene/style pairs, no custom lyrics or song uploads. Pet, Solo and Original development samples passed technical/audio/lyric checks. The first Duo sample failed resolution; a follow-up with a revised input layout passed at 1344×768. Solo/Duo test prompts retained an unexpanded template variable, so they were not identical to production requests. Historical five-second demos are not current previews; human listening, lip-sync and production checkout-to-download validation remain incomplete.
 
-[Official source](https://makeairapvideos.com/pricing/) — Current deployed contract plus four development API samples; three technical passes, one Duo failure; not customer delivery validation.
+[Official source](https://makeairapvideos.com/pricing/) — Current product contract plus five development API samples, including an initial Duo failure and a successful layout retest; not customer delivery validation.
 
 ### Solmi
 
@@ -61,7 +61,7 @@ Knight is not recommended for Autopilot on its own pricing page. Credit totals a
 
 Make AI Rap Videos turns pet photos, authorized portraits, or a fixed fictional character into short rap performances with generated audio using four fixed scene-and-style templates.
 
-Historical five-second demos are labeled on the website. Four new API samples exist: Pet, Solo and Original passed technical/audio/lyric checks; Duo failed resolution and needs correction and retesting. Human listening, lip-sync and production checkout-to-download validation remain incomplete. We do not claim a universal winner, free generated videos, custom lyrics or blanket commercial-use clearance.
+Historical five-second demos are labeled on the website. Five development API samples include technical/lyric passes for Pet, Solo and Original, an initial Duo resolution failure and a successful 1344×768 Duo layout retest. Solo/Duo sample prompts were not identical to production requests. Human listening, lip-sync and production checkout-to-download validation remain incomplete. We do not claim a universal winner, free generated videos, custom lyrics or blanket commercial-use clearance.
 
 [Read the 2026 buyer guide](https://makeairapvideos.com/blog/best-ai-rap-video-generator-2026/) · [Current offer](https://makeairapvideos.com/pricing/)
 
